@@ -1,0 +1,17 @@
+links uteis:
+
+https://www.markdownguide.org/basic-syntax/
+
+comandos uteis:
+ls
+cd
+mk
+rm
+git init
+git config --global user.email
+git config --global user.name
+git add
+git status
+git commit -m " "
+git push origin main
+git pull
